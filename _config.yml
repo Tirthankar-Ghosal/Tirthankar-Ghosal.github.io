@@ -26,9 +26,9 @@ author:
   name             : "Tirthankar Ghosal"
   pronouns         : # example: "she/her"  
   bio              : "Staff Scientist"
-  location         : "Oak Ridge, Tennessee, USA"
+  location         : "Knoxville, Tennessee, USA"
   employer         : "Oak Ridge National Laboratory"
-  uri              : # URL
+  uri              : "https://www.ornl.gov/staff-profile/tirthankar-ghosal"
   email            : "ghosalt@ornl.gov" 
 
   # Academic websites
