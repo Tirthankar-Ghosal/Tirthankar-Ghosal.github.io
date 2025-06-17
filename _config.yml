@@ -32,7 +32,7 @@ author:
   email            : "ghosalt@ornl.gov" 
 
   # Academic websites
-  academia         : "https://www.ornl.gov/staff-profile/tirthankar-ghosal"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=Lbrvts4AAAAJ&hl=en"
   impactstory      : # URL
