@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a staff scientist at the [National Center for Computational Sciences](https://www.ornl.gov/division/nccs) at the [Oak Ridge National Laboratory](https://www.ornl.gov) in [Oak Ridge, TN](https://www.oakridgetn.gov).
+I am a staff scientist in the [National Center for Computational Sciences](https://www.ornl.gov/division/nccs) at the [Oak Ridge National Laboratory](https://www.ornl.gov) in [Oak Ridge, TN](https://www.oakridgetn.gov).
 
 A data-driven personal website
 ======
