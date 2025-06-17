@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a staff scientist in the [National Center for Computational Sciences](https://www.ornl.gov/division/nccs) at the [Oak Ridge National Laboratory](https://www.ornl.gov) in [Oak Ridge, TN](https://www.oakridgetn.gov).
+I am a staff scientist in the [National Center for Computational Sciences](https://www.ornl.gov/division/nccs) at the [Oak Ridge National Laboratory](https://www.ornl.gov) in [Oak Ridge, TN](https://www.oakridgetn.gov). My specialization is Natural Language Processing (NLP), Machine Learning, and Artificial Intelligence (AI) in general. I also teach a graduate-level course on NLP and Generative AI at the [University of Tennessee Knoxville](https://bredesencenter.utk.edu/faculty/tirthankar-ghosal/) as part of the [University of Tennessee-Oak Ridge Innovation Institute (UT-ORII)](https://utorii.com).
 
 A data-driven personal website
 ======
